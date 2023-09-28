@@ -7,11 +7,15 @@ Our challenge revolves around the need for effective daily, weekly, and monthly 
 ## Solution Overview
 
 App Called - How's My Day?
+
 AI Powered Assistant Name - Daisy
+
 
 **Our Solution:** "GPT-Summarize" - A PowerApps-driven solution empowered by ChatGPT.
 
+
 **How It Works:**
+
 * **Data Integration:** Seamlessly integrates with users' calendars and task management tools.
 * **ChatGPT Integration:** Leverages ChatGPT's natural language processing for data understanding.
 * **Summarization:** Utilizes advanced summarization algorithms to generate concise schedule summaries.
@@ -23,18 +27,43 @@ AI Powered Assistant Name - Daisy
 
 
 **Benefits:**
+
 * Enhanced schedule management.
 * Improved productivity.
 * Reduced stress.
 * Personalized, user-friendly summaries.
 
 **Why "GPT-Summarize" is a Game-Changer:**
+
 * Harnesses AI for schedule optimization.
 * Streamlines professional lives.
 * Boosts efficiency and punctuality.
 * Empowers users with AI-driven productivity.
 
+
 "GPT-Summarize" transforms chaotic schedules into organized success stories. Join us to revolutionize time management!
 
+## Components Used 
+
+* User Interface (PowerApps): User interacts with the app.
+* Azure OpenAI API: Custom connector sends text for summarization.
+* Microsoft Translator: Offers language translation.
+* Text to Speech: Converts text to speech for accessibility.
+* Office365User & Outlook Integration: Accesses calendar, tasks, and emails.
+* Power Automate (Flow): Automates alerts and reminders.
+
+   [User Interface]
+        |
+   [PowerApps]
+        |
+ [Custom Connector]
+   /          \
+[Azure OpenAI] [Microsoft Translator]
+        |
+ [Text to Speech]
+        |
+[Office365User & Outlook Integration]
+        |
+  [Power Automate]
 
 
