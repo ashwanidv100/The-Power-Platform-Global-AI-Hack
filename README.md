@@ -6,9 +6,8 @@ Our challenge revolves around the need for effective daily, weekly, and monthly 
 
 ## Solution Overview
 
-App Called - How's My Day?
-
-AI Powered Assistant Name - Daisy
+**App Called **- _How's My Day?_
+**AI Powered Assistant Name** - _Daisy_
 
 
 **Our Solution:** "GPT-Summarize" - A PowerApps-driven solution empowered by ChatGPT.
