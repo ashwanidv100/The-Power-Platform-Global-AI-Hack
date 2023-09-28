@@ -6,7 +6,7 @@ Our challenge revolves around the need for effective daily, weekly, and monthly 
 
 ## Solution Overview
 
-**App Called **- _How's My Day?_
+**App Called** - _How's My Day?_ __
 **AI Powered Assistant Name** - _Daisy_
 
 
