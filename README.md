@@ -52,25 +52,19 @@ AI Powered Assistant Name - Daisy
 * Office365User & Outlook Integration: Accesses calendar, tasks, and emails.
 * Power Automate (Flow): Automates alerts and reminders.
 
+```
    [User Interface]
-  
         |
    [PowerApps]
-  
         |
  [Custom Connector]
- 
    /          \
-   
 [Azure OpenAI] [Microsoft Translator]
-
         |
  [Text to Speech]
- 
         |
 [Office365User & Outlook Integration]
-
         |
   [Power Automate]
 
-
+```
