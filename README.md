@@ -69,4 +69,4 @@ Our challenge revolves around the need for effective daily, weekly, and monthly 
 ```
 
 ## Project SUbmission Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ob7rumUq21I?si=RLqBL3ZTh9qfcv3b/0.jpg)](https://www.youtube.com/watch?v=Ob7rumUq21I?si=RLqBL3ZTh9qfcv3b)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RLqBL3ZTh9qfcv3b/0.jpg)](https://www.youtube.com/watch?v=Ob7rumUq21I?si=RLqBL3ZTh9qfcv3b)
