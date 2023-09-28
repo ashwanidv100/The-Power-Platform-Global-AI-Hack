@@ -68,7 +68,7 @@ Our challenge revolves around the need for effective daily, weekly, and monthly 
 
 ```
 
-## Project SUbmission Video
+## Project Submission Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ob7rumUq21I
 " target="_blank"><img src="http://img.youtube.com/vi/Ob7rumUq21I/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
