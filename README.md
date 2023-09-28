@@ -53,16 +53,23 @@ AI Powered Assistant Name - Daisy
 * Power Automate (Flow): Automates alerts and reminders.
 
    [User Interface]
+  
         |
    [PowerApps]
+  
         |
  [Custom Connector]
+ 
    /          \
+   
 [Azure OpenAI] [Microsoft Translator]
+
         |
  [Text to Speech]
+ 
         |
 [Office365User & Outlook Integration]
+
         |
   [Power Automate]
 
